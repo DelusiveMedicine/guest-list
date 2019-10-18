@@ -1,2 +1,2 @@
 # guest-list
-Guest list app
+Guest list app https://delusivemedicine.github.io/guest-list/dist/index.html
