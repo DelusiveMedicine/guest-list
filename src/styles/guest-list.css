@@ -1,0 +1,23 @@
+.guest-list {
+  list-style: none;
+  width: 294px;
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.guest-list__item {
+  border: 1px solid gray;
+  width: 292px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.guest-list__item-child {
+  width: 100%;
+}
+
+.guest-list__btn {
+  border-style: none;
+}
